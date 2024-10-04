@@ -9,7 +9,7 @@ const paragraph = document.getElementById('myParagraph');
 //past the folowing 
 const lines = [
   'Hello, World!',
-  'add here',
+  'Lilly',
   
 ];
 
